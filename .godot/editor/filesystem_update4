@@ -1,0 +1,8 @@
+res://main_menu.tscn
+res://player.gd
+res://level_1.tscn
+res://player.tscn
+res://Camera2DParallax.gd
+res://enemy.tscn
+res://enemy.gd
+res://level.gd
